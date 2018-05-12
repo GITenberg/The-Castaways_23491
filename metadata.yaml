@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23491#The-Castaways
 gutenberg_issued: '2007-11-15'
 gutenberg_type: Text
 identifiers:
